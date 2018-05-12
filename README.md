@@ -9,4 +9,4 @@ There are several [word embeddings](https://en.wikipedia.org/wiki/Word_embedding
 # To-do
 
 * [ ] Train model on [wikipedia dump](https://dumps.wikimedia.org/ruwiki/latest/ruwiki-latest-pages-articles.xml.bz2)
-
+* [ ] Beat [SentiRuEval-2016](http://www.dialog-21.ru/evaluation/2016/sentiment/) benchmarks
